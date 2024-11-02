@@ -1,1 +1,1 @@
-This is a dummy description of this app features
+signal is a user-friendly music sequencer application developed using web technology, designed for seamless, cross-platform use.

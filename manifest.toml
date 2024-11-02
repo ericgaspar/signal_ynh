@@ -64,8 +64,8 @@ ram.runtime = "50M"
     [resources.sources]
 
     [resources.sources.main]
-    url = "https://github.com/foo/bar/archive/refs/tags/v1.2.3.tar.gz"
-    sha256 = "0123456789abcdef0123456789abcdef0123456789abcdef0123456789abcdef"
+    url = "https://github.com/ryohey/signal/archive/refs/heads/main.zip"
+    sha256 = "4e8b0a44a7bc0e5b5ae5c483da582d1f6c3b473b7fcda64af0fbd18c1a30abab"
 
     # autoupdate.strategy = "latest_github_tag"
 
