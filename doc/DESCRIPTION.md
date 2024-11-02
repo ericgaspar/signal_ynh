@@ -1,4 +1,4 @@
-signal is a user-friendly music sequencer application developed using web technology, designed for seamless, cross-platform use.
+Signal is a user-friendly music sequencer application developed using web technology, designed for seamless, cross-platform use.
 
 ### Features
 
